@@ -352,6 +352,10 @@ section{
     font-size: 1.7rem;
     color: var(--main-color);
 }
+/* .box .wa i {
+    font-size: 1.7rem;
+    color: var(--main-color);
+} */
 
 .products .box-container .box .content .price{
     color:#fff;
